@@ -1,0 +1,23 @@
+body{
+        font-size: 20px;
+    }
+    
+    #links{
+        text-align:center;
+        padding-top: 50px;
+    }
+
+    #links a{
+        color: rgb(0, 0, 238);
+        text-decoration: none;
+    }
+
+    #links a:visited{
+        color: rgb(0, 0, 238);
+        text-decoration: none;
+    }
+
+    #links a:hover{
+        color:red;
+        text-decoration: underline;
+    }
